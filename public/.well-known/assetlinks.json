@@ -2,7 +2,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
         "namespace": "android_app",
-        "package_name": "com.example.deeplink_cookbook",
+        "package_name": "com.example.flutter_deep_links",
         "sha256_cert_fingerprints":
         ["71:98:CF:B8:CF:C8:5D:81:E0:79:5E:94:DA:0D:DC:15:84:57:E5:30:4F:55:F8:D6:26:D4:06:CB:AF:57:86:B7"]
     }
